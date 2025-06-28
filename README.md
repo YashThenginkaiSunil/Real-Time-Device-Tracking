@@ -13,7 +13,7 @@ Frontend: HTML, CSS, JavaScript, Leaflet.js
 Backend: Node.js, Express, Socket.IO
 Other: OpenStreetMap for tiles, Geolocation API for live coordinates
 
-📦 How It Works
+📦 How It Works:-
 1.Each connected browser shares its location (after requesting permission).
 2.The server receives it and emits it to all other clients.
 3.Clients update the map:
